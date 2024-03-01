@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 #___________________________________________________________________________
 
 # SETTING PAGE CONFIGURATIONS
-icon = Image.open("airbnb.png")
+icon = Image.open("airbnb.png") # use your icon here
 st.set_page_config(page_title= "AIRBNB ANALYSIS",
                    page_icon= icon,
                    layout= "wide",
