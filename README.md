@@ -30,6 +30,9 @@ Travel industry, property management, and tourism.
 
 ## Workflow
 
+![Airbnb - Workflow](https://github.com/asdesilva3/Airbnb_Analysis/assets/148002331/8d76208d-8980-447c-b4ae-3de2b5b20ccb)
+
+
 ## Approach
 
 1. **Install the required dependencies**:
